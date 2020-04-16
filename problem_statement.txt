@@ -1,0 +1,2 @@
+When people from rural areas come to cities in search of hospitals or medical facilities they find it difficult to find hospitals according to 
+their need or requirements. Develop a software solution for the same and also show list of government schemas if available in the hospital.
